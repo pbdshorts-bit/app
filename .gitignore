@@ -1,0 +1,52 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.aar
+*.ap_
+*.aab
+*.aidl
+*.ds_store
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+*.iws
+*.ipr
+
+# IntelliJ
+*.log
+out/
+.classpath
+.project
+.settings/
+bin/
+local.properties
+
+# General
+.gradle
+build
+*.swp
+*~
+.DS_Store
+
+# Firebase
+google-services.json
+ServiceAccountKey.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# API Keys
+api.properties
+secrets.properties
+
+# Generated files
+generated/
+*.generated.kt
